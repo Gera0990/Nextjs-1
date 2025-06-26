@@ -1,10 +1,10 @@
-export default function Stripe() {
+export default function Hornet600() {
 
-    const urlLink = 'https://www.youtube.com/embed/gOWCCkUq2nc'
+    const urlLink = 'https://www.youtube.com/embed/ksNTiZVgm_Y'
 
      return (
     <main className="flex flex-col items-center h-200 justify-start p-4 bg-gray-100">
-      <h1 className="text-3xl font-bold mb-4 mt-4">Aprende Stripe</h1>
+      <h1 className="text-3xl font-bold mb-4 mt-4">Velocidad pura</h1>
 
       <div className="w-full px-2 sm:px-4">
         <div className="aspect-video rounded-xl overflow-hidden shadow-lg w-full">
